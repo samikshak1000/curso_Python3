@@ -1,1 +1,1 @@
-# Platzi ventas (curso de Python)
+# amazing Platzi ventas (curso de Python)
